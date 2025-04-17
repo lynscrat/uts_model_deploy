@@ -2,3 +2,8 @@ streamlit>=1.26.0
 numpy
 pandas
 seaborn
+matplotlib
+scikit-learn
+imblearn
+xgboost
+scipy
